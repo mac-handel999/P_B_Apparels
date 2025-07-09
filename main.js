@@ -1,7 +1,7 @@
 
   let total = 0;
   const totalDisplay = document.getElementById("totalAmount");
-  const foodItems = document.querySelectorAll(".foods");
+  const foodItems = document.querySelectorAll(".cloth");
 
   // Load total from localStorage if available
   const savedTotal = localStorage.getItem("totalBill");
