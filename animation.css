@@ -11,6 +11,15 @@
   text-align: center;
 }
 
+ .image:hover {
+  box-shadow: 2px 3px 3px 2px #fff;
+  transform: translate3d(20px);
+  
+  height: 150px;
+  width: 150px;
+}
+
+
 .image svg {
   width: 150px;
   margin-top: -322px;
