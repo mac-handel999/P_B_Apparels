@@ -40,13 +40,13 @@ body {
     border: 3px solid blue;
     border-radius: 100%;
     box-shadow: 3px 3px 3px 3px #000;
-    background-color: #fff;
+    background-color: #e1ebf1;
 }
 
 .brand-name {
 	margin-top: 10px;
 	padding: 1px;
-	color: blue;
+	color: #0A2B06;
 	text-align: center;
 	font-weight: bolder;
 	font-size: 0.9rem;
@@ -128,7 +128,7 @@ justify-content: space-between;
 .menu-section {
   margin-top: 16px;
   padding: 5px;
-  background-color: #e1ebf1;
+  background-color: #9A9A9A;
 }
 
 .menu-header {
@@ -171,6 +171,7 @@ justify-content: space-between;
   background: #fff;
   border-top-right-radius: 10px;
   border-top-left-radius: 10px ;
+  color: #0A2B06;
 }
 
 .img-food:hover {
@@ -191,13 +192,13 @@ justify-content: space-between;
   background: #fff;
   border-bottom-right-radius: 10px;
   border-bottom-left-radius: 10px ;
-  color: #000;
+  color: #0A2B06;
   text-shadow: 2px 3px 5px blue;
 }
 
 .price {
   font-size: 0.9rem;
-  color: darkblue;
+  color: #0A2B06;
   text-shadow: 2px 3px 5px #000;
 }
 
